@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759724916038",
+    "project_id": "rablochatapp",
+    "storage_bucket": "rablochatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759724916038:android:23d9df73dc51b1e6607947",
+        "android_client_info": {
+          "package_name": "com.example.rablochatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YmEBqv43syQ-OKWv-hTcmGENu9hr5pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
